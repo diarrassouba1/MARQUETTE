@@ -36,7 +36,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("images/Mon%20images.webp");
+    background-image: url('images/Mon images.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
